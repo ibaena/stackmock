@@ -1,0 +1,53 @@
+hr{
+	width: 10px;
+	border-color:  black;
+	width: 100%;
+}
+
+.dropdown, .signup, .signin {
+  text-align:left;
+  margin-top: 8px;
+}
+
+
+.breadcrumb {
+	background-color: none;
+}
+
+.stack {
+	margin-bottom: 5px;
+	padding-bottom: 15px;
+}
+
+.tags {
+	text-align: right;
+}
+
+.tags, .subhead {
+	padding-bottom: 10px;
+}
+
+.lbreak {
+	border-bottom: 1px solid black !important;
+	margin-bottom: 30px;
+	border-bottom: 50px;
+}
+
+.signincontent {
+	text-align: center;
+	
+}
+
+.footersign {
+	margin-top: 50px;
+}
+
+.signincontent, .boxsign {
+	
+	margin-bottom: 50px;
+}
+
+.signin {
+	text-align: center;
+}
+
